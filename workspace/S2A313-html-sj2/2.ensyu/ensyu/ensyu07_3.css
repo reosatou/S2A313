@@ -1,0 +1,13 @@
+table{
+  font-size: 1.2rem;
+}
+table tb:hover, .table th:hover{
+  background: #f0f0f0;
+}
+th{
+  padding: 10px;
+  text-align: left;
+}
+td{
+  padding: 10px;
+}
